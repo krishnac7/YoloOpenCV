@@ -8,7 +8,7 @@ Get the weights file by by running wget in the working directory
 
 Running the yolo:
 
-`python3 yolo.py --image busystreet.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3_classes.txt
+`python3 yolo.py --image busystreet.jpeg --config yolov3.cfg --weights yolov3.weights --classes yolov3_classes.txt
 `
 
 Sample output: <br/>
